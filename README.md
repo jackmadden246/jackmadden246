@@ -18,7 +18,7 @@ You can reach me on jackmadden782@gmail.com
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/jack-madden-b0110a113/ 
 
-I am a stoic and try to use logic and emotion to make me successful in my career. 
+I am a stoic, and try to use logic and emotion to make me successful in my career. 
 
 My favourite quote: 
 

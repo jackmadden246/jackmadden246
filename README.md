@@ -8,9 +8,9 @@ Currrently working at Xander Talent as a Software Engineer
 ![image](https://user-images.githubusercontent.com/68071086/203613672-4ccd36fc-8805-492f-ad23-e3bcaf51f3c9.png)
 
 - 📚 Worked in law for over 2 years 
-- 🐍 Completed courses on Python, SQL, data science, APIs, finance, and mathematics 
+- 🐍 Completed courses on Python, SQL, data science, APIs, finance, and mathematics, for example
 - 🐥 Finished Xander Talent's Software Engineer Academy in 2022
-- 🔭 I’m currently working on a project involving snakes and ladders 
+- 🔭 I’m currently working on a project involving creating a website on AI 
 - 🌱 I’m currently learning about Python, SQL, AWS, JavaScript, HTML, CSS, APIs, and a variety of other things
 - ⚡ Fun facts: I enjoy travelling 🌐 video games 🎮 tennis 🎾and going to the gym 💪
 

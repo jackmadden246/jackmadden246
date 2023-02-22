@@ -1,5 +1,5 @@
 ## Hi there👋
-### I'm Jack, a Full-Stack Software Engineer
+### I'm Jack, a Full Stack Software Engineer
 
 I am always interested to learn about new and emerging trends in technology, and creating the highest-quality code possible. 
 
@@ -11,7 +11,7 @@ Currrently working at Xander Talent as a Software Engineer.
 - 🐍 Completed courses on Python, SQL, data science, and the command line, for example
 - 🐥 Finished Xander Talent's Software Engineer Academy in 2022
 - 🔭 I’m currently working on a project involving creating a Learning Management System for Xander Talent
-- 🌱 I’m currently learning about Django and React
+- 🌱 I’m currently learning Django and React
 - ⚡ Fun facts: I enjoy travelling 🌐 video games 🎮 tennis 🎾and going to the gym 💪
 
 You can reach me on jackmadden782@gmail.com 

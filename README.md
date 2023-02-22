@@ -3,7 +3,7 @@
 
 I am always interested to learn about new and emerging trends in technology, and creating the highest-quality code possible. 
 
-Currrently working at Xander Talent as a Software Engineering Consultant 
+Currrently working at Xander Talent as a Software Engineer Consultant 
 
 ![image](https://user-images.githubusercontent.com/68071086/203613672-4ccd36fc-8805-492f-ad23-e3bcaf51f3c9.png)
 

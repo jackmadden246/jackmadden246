@@ -7,7 +7,6 @@ Currrently working at Xander Talent as a Software Engineer Consultant
 
 ![image](https://user-images.githubusercontent.com/68071086/203613672-4ccd36fc-8805-492f-ad23-e3bcaf51f3c9.png)
 
-- 📚 Worked in law for over 2 years 
 - 🐍 Completed courses on Python, SQL, data science, and the command line, for example
 - 🐥 Finished Xander Talent's Software Engineer Academy in 2022
 - 🔭 I’m currently working on a project involving creating a Learning Management System for Xander Talent

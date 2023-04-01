@@ -5,8 +5,6 @@ I am always interested to learn about new and emerging trends in technology, and
 
 My goal is to work as a Cloud Engineer or a DevOps Engineer. 
 
-![image](https://user-images.githubusercontent.com/68071086/203613672-4ccd36fc-8805-492f-ad23-e3bcaf51f3c9.png)
-
 - 🐍 Completed courses on Python, SQL, data science, and the command line, for example
 - 🐥 Finished Xander Talent's Software Engineer Academy in 2022
 - 🔭 I’m currently working on a project involving creating a Learning Management System for Xander Talent

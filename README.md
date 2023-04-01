@@ -3,14 +3,14 @@
 
 I am always interested to learn about new and emerging trends in technology, and creating the highest-quality code possible. 
 
-Currrently working at Xander Talent as a Software Engineer Consultant 
+My goal is to work as a Cloud Engineer or a DevOps Engineer. 
 
 ![image](https://user-images.githubusercontent.com/68071086/203613672-4ccd36fc-8805-492f-ad23-e3bcaf51f3c9.png)
 
 - 🐍 Completed courses on Python, SQL, data science, and the command line, for example
 - 🐥 Finished Xander Talent's Software Engineer Academy in 2022
 - 🔭 I’m currently working on a project involving creating a Learning Management System for Xander Talent
-- 🌱 I’m currently learning Django and React
+- 🌱 I’m currently learning React
 - ⚡ Fun facts: I enjoy travelling 🌐 video games 🎮 tennis 🎾and going to the gym 💪
 
 You can reach me on jackmadden782@gmail.com 

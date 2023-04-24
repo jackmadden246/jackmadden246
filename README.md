@@ -1,5 +1,5 @@
 ## Hi there👋
-### I'm Jack, a Full Stack Software Engineer
+### I'm Jack, a Fullstack Software Engineer
 
 I am always interested to learn about new and emerging trends in technology, and creating the highest-quality code possible. 
 

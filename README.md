@@ -3,7 +3,7 @@
 
 I am always interested to learn about new and emerging trends in technology, and creating the highest-quality code possible. 
 
-My goal is to work as a Cloud Engineer or a DevOps Engineer. 
+My goal is to work as a Cloud Developer or a DevOps Engineer. 
 
 - 🐍 Completed courses on Python, SQL, data science, and the command line, for example
 - 🐥 Finished Xander Talent's Software Engineer Academy in 2022
@@ -11,11 +11,11 @@ My goal is to work as a Cloud Engineer or a DevOps Engineer.
 - 🌱 I’m currently learning React
 - ⚡ Fun facts: I enjoy travelling 🌐 video games 🎮 tennis 🎾and going to the gym 💪
 
-You can reach me on jackmadden782@gmail.com 
+You can reach me at jackmadden782@gmail.com 
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/jack-madden-b0110a113/ 
 
-I am a stoic, and try to use logic and emotion to make me successful in my career. 
+I am a stoic and try to use logic and emotion to be successful in my career. 
 
 My favourite quote: 
 

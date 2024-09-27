@@ -5,7 +5,7 @@ I am always interested to learn about new and emerging trends in technology, and
 
 My goal is to work as a Full Stack Developer. 
 
-- 🔚 Currently completing a Full Stack Developer's course which covers Node.js and how to be a competent Full Stack Developer, and creating a project based on what I am learning.
+- 👷 Currently completing a Full Stack Developer's course which covers Node.js and how to be a competent Full Stack Developer, and creating a project based on what I am learning.
 - 🔚 Finished Xander Talent's Software Engineer Academy in 2022.
 - 🥇 I created an MVP of a Learning Management System for Xander Talent in a group of five software engineers.
 - 💻 Completed courses on Python, SQL, Bash, and Computer Science.
